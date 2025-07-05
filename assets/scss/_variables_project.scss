@@ -1,0 +1,23 @@
+/*
+
+Add styles or override variables from the theme here.
+
+*/
+
+// ヘッダーのスタイルをカスタマイズ
+.td-navbar {
+  background-color: rgb(48, 48, 58) !important;
+  min-height: 4rem;
+}
+
+// フッターのスタイルをカスタマイズ
+.td-footer {
+  background-color: rgb(48, 48, 58) !important;
+  padding-top: 1rem !important;
+  padding-bottom: 1rem !important;
+  min-height: auto !important;
+}
+
+.td-footer .text-center {
+  margin: 0 !important;
+}
