@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Services on Ops Handbook</title><link>https://xnya-bpinelab.github.io/ops-handbook/service/</link><description>Recent content in Services on Ops Handbook</description><generator>Hugo</generator><language>en</language><atom:link href="https://xnya-bpinelab.github.io/ops-handbook/service/index.xml" rel="self" type="application/rss+xml"/><item><title>Service Catalog</title><link>https://xnya-bpinelab.github.io/ops-handbook/service/catalog/</link><pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate><guid>https://xnya-bpinelab.github.io/ops-handbook/service/catalog/</guid><description>&lt;h2 id="service-overview">Service Overview&lt;a class="td-heading-self-link" href="#service-overview" aria-label="Heading self-link">&lt;/a>&lt;/h2>&lt;h3 id="service-name">Service Name&lt;a class="td-heading-self-link" href="#service-name" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;p>&lt;strong>IT Service Operations and Maintenance Outsourcing&lt;/strong>&lt;/p>
+&lt;h3 id="target-audience">Target Audience&lt;a class="td-heading-self-link" href="#target-audience" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>IT Service Owners&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Departments providing IT services to internal and group companies&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h3 id="scope-of-service">Scope of Service&lt;a class="td-heading-self-link" href="#scope-of-service" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;p>This service provides &lt;strong>outsourcing of IT service operations and maintenance&lt;/strong>, reducing the workload of service owners.&lt;/p>
+&lt;p>Covered areas:&lt;/p>
+&lt;ul>
+&lt;li>Incident Management&lt;/li>
+&lt;li>Problem Management&lt;/li>
+&lt;li>Change Management&lt;/li>
+&lt;li>Release Management&lt;/li>
+&lt;li>User Management&lt;/li>
+&lt;li>Infrastructure Monitoring and Operations (On-Premise &amp;amp; Cloud)&lt;/li>
+&lt;li>Application and OS Maintenance (Bug Fixes, Patch Application, Preventive Maintenance)&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="service-specifications">Service Specifications&lt;a class="td-heading-self-link" href="#service-specifications" aria-label="Heading self-link">&lt;/a>&lt;/h2>&lt;h3 id="support-activities">Support Activities&lt;a class="td-heading-self-link" href="#support-activities" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Area&lt;/th>
+ &lt;th>Main Tasks&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Incident Management&lt;/td>
+ &lt;td>User inquiries, issue triage, initial response&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Problem Management&lt;/td>
+ &lt;td>Root Cause Analysis (RCA), recurrence prevention&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Change Management&lt;/td>
+ &lt;td>Handling change requests, impact analysis, approval workflow&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Release Management&lt;/td>
+ &lt;td>Coordination and confirmation of scheduled/emergency releases&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>User Management&lt;/td>
+ &lt;td>Account creation/deletion, access rights management&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Infrastructure Operations&lt;/td>
+ &lt;td>Server/network monitoring, backups, performance management&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Application &amp;amp; OS Maintenance&lt;/td>
+ &lt;td>Bug fixes, patching, preventive maintenance&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="support-coverage">Support Coverage&lt;a class="td-heading-self-link" href="#support-coverage" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Comprehensive support for IT service operations&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>On-premise and cloud infrastructure management&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Application configuration and adjustments&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Regular OS and application maintenance and patching&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h3 id="monitoring--notifications">Monitoring &amp;amp; Notifications&lt;a class="td-heading-self-link" href="#monitoring--notifications" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>24/7 monitoring (optional)&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Automated alerts for anomalies&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Reports available (monthly/weekly options)&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="service-hours--sla">Service Hours &amp;amp; SLA&lt;a class="td-heading-self-link" href="#service-hours--sla" aria-label="Heading self-link">&lt;/a>&lt;/h2>&lt;h3 id="operation-hours">Operation Hours&lt;a class="td-heading-self-link" href="#operation-hours" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Service Item&lt;/th>
+ &lt;th>Availability&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Standard Operation&lt;/td>
+ &lt;td>24/7&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Support Desk&lt;/td>
+ &lt;td>Weekdays 09:00 - 18:00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Maintenance Time&lt;/td>
+ &lt;td>2nd Saturday of each month, 02:00 - 06:00&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="sla-service-level-agreement">SLA (Service Level Agreement)&lt;a class="td-heading-self-link" href="#sla-service-level-agreement" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Metric&lt;/th>
+ &lt;th>Target&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Service Availability&lt;/td>
+ &lt;td>99.9% / month&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Initial Incident Response Time&lt;/td>
+ &lt;td>Within 30 minutes (High Priority)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Problem Resolution Time&lt;/td>
+ &lt;td>Within 4 hours (Critical Issues)&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 id="support--operations-framework">Support &amp;amp; Operations Framework&lt;a class="td-heading-self-link" href="#support--operations-framework" aria-label="Heading self-link">&lt;/a>&lt;/h2>&lt;h3 id="contact-points">Contact Points&lt;a class="td-heading-self-link" href="#contact-points" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Help Desk&lt;/strong>: &lt;a href="mailto:support@company.com">support@company.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Phone Support&lt;/strong>: 0120-XXX-XXX (Weekdays 09:00 - 18:00)&lt;/li>
+&lt;/ul>
+&lt;h3 id="incident-management-flow">Incident Management Flow&lt;a class="td-heading-self-link" href="#incident-management-flow" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>Inquiry received from service owner (email/phone/portal)&lt;/li>
+&lt;li>Help desk provides first-line response&lt;/li>
+&lt;li>Issue triage
+&lt;ul>
+&lt;li>&lt;strong>Application Issues&lt;/strong>: Escalated to application support team&lt;/li>
+&lt;li>&lt;strong>Infrastructure Issues&lt;/strong>: Escalated to infrastructure operations team&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Report back to service owner upon resolution&lt;/li>
+&lt;li>Record in Knowledge Base (KB)&lt;/li>
+&lt;/ol>
+&lt;h3 id="change--release-management">Change &amp;amp; Release Management&lt;a class="td-heading-self-link" href="#change--release-management" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Regular Releases&lt;/strong>: Version upgrades every 3 months&lt;/li>
+&lt;li>&lt;strong>Emergency Releases&lt;/strong>: As needed during critical incidents&lt;/li>
+&lt;li>&lt;strong>Change Request Handling&lt;/strong>: Managed via ticketing system&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="terms--policies">Terms &amp;amp; Policies&lt;a class="td-heading-self-link" href="#terms--policies" aria-label="Heading self-link">&lt;/a>&lt;/h2>&lt;h3 id="service-agreement">Service Agreement&lt;a class="td-heading-self-link" href="#service-agreement" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Contract Period: &lt;strong>Minimum 1-year contract required&lt;/strong>&lt;/li>
+&lt;li>Renewal: &lt;strong>Confirmation required 3 months in advance&lt;/strong>&lt;/li>
+&lt;li>Scope Changes: &lt;strong>Additional requirements to be discussed separately&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h3 id="data-management-policy">Data Management Policy&lt;a class="td-heading-self-link" href="#data-management-policy" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>Data Retention&lt;/strong>: Business data for 10 years, log data for 2 years&lt;/li>
+&lt;li>&lt;strong>Deletion Policy&lt;/strong>: Deletion allowed with administrator approval&lt;/li>
+&lt;/ul>
+&lt;h3 id="prohibited-actions">Prohibited Actions&lt;a class="td-heading-self-link" href="#prohibited-actions" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>Unauthorized changes&lt;/li>
+&lt;li>Unauthorized access or data breaches&lt;/li>
+&lt;li>Applying releases without prior notice&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="appendix--references">Appendix &amp;amp; References&lt;a class="td-heading-self-link" href="#appendix--references" aria-label="Heading self-link">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://www.axelos.com/">ITIL 4: Service Operation Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/">Cloud Operations Guide&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Services on Ops Handbook</title><link>https://xnya-bpinelab.github.io/ops-handbook/ja/service/</link><description>Recent content in Services on Ops Handbook</description><generator>Hugo</generator><language>ja</language><atom:link href="https://xnya-bpinelab.github.io/ops-handbook/ja/service/index.xml" rel="self" type="application/rss+xml"/><item><title>サービスカタログ</title><link>https://xnya-bpinelab.github.io/ops-handbook/ja/service/catalog/</link><pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate><guid>https://xnya-bpinelab.github.io/ops-handbook/ja/service/catalog/</guid><description>&lt;h2 id="サービス概要">サービス概要&lt;a class="td-heading-self-link" href="#%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e6%a6%82%e8%a6%81" aria-label="Heading self-link">&lt;/a>&lt;/h2>&lt;h3 id="サービス名称">サービス名称&lt;a class="td-heading-self-link" href="#%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e5%90%8d%e7%a7%b0" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;p>&lt;strong>ITサービス運用保守代行&lt;/strong>&lt;/p>
+&lt;h3 id="サービス対象">サービス対象&lt;a class="td-heading-self-link" href="#%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e5%af%be%e8%b1%a1" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>ITサービスのサービスオーナー&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>社内およびグループ会社向けにITサービスを提供する部門&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h3 id="提供範囲">提供範囲&lt;a class="td-heading-self-link" href="#%e6%8f%90%e4%be%9b%e7%af%84%e5%9b%b2" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;p>本サービスは、ITサービスの&lt;strong>運用・保守業務の代行&lt;/strong>を行い、サービスオーナーの業務負担を軽減する。&lt;/p>
+&lt;p>提供する業務範囲:&lt;/p>
+&lt;ul>
+&lt;li>インシデント管理 (Incident Management)&lt;/li>
+&lt;li>問題管理 (Problem Management)&lt;/li>
+&lt;li>変更管理 (Change Management)&lt;/li>
+&lt;li>リリース管理 (Release Management)&lt;/li>
+&lt;li>ユーザー管理 (User Management)&lt;/li>
+&lt;li>インフラ監視・運用（オンプレミス・クラウド環境）&lt;/li>
+&lt;li>アプリケーションおよびOSの保守（不具合対応、パッチ適用、予防保守）&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="サービス仕様">サービス仕様&lt;a class="td-heading-self-link" href="#%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e4%bb%95%e6%a7%98" aria-label="Heading self-link">&lt;/a>&lt;/h2>&lt;h3 id="サポート業務一覧">サポート業務一覧&lt;a class="td-heading-self-link" href="#%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e6%a5%ad%e5%8b%99%e4%b8%80%e8%a6%a7" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>業務領域&lt;/th>
+ &lt;th>主な対応内容&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>インシデント管理&lt;/td>
+ &lt;td>ユーザー問い合わせ対応、障害切り分け、初動対応&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>問題管理&lt;/td>
+ &lt;td>根本原因分析 (RCA)、再発防止策の策定&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>変更管理&lt;/td>
+ &lt;td>変更リクエスト受付、影響分析、承認ワークフロー管理&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>リリース管理&lt;/td>
+ &lt;td>定期/緊急リリースの調整、適用後の確認&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>ユーザー管理&lt;/td>
+ &lt;td>アカウント登録・削除、アクセス権管理&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>インフラ運用&lt;/td>
+ &lt;td>サーバー・ネットワーク監視、バックアップ、パフォーマンス管理&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>アプリケーション・OS保守&lt;/td>
+ &lt;td>不具合対応、パッチ適用、予防保守&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="サポート対象範囲">サポート対象範囲&lt;a class="td-heading-self-link" href="#%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e5%af%be%e8%b1%a1%e7%af%84%e5%9b%b2" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>ITサービスの運用に関する全般的なサポート&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>オンプレミス・クラウドのインフラ管理&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>アプリケーションの設定変更・調整&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>OSおよびアプリケーションの定期的な保守・パッチ適用&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h3 id="監視通知">監視・通知&lt;a class="td-heading-self-link" href="#%e7%9b%a3%e8%a6%96%e9%80%9a%e7%9f%a5" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>24時間365日監視 (オプション対応可)&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>異常検知時の自動アラート発報&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>レポート提供 (月次・週次対応可)&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="サービス提供時間sla">サービス提供時間・SLA&lt;a class="td-heading-self-link" href="#%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e6%8f%90%e4%be%9b%e6%99%82%e9%96%93sla" aria-label="Heading self-link">&lt;/a>&lt;/h2>&lt;h3 id="運用時間">運用時間&lt;a class="td-heading-self-link" href="#%e9%81%8b%e7%94%a8%e6%99%82%e9%96%93" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>サービス項目&lt;/th>
+ &lt;th>提供時間&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>通常運用&lt;/td>
+ &lt;td>24時間365日&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>サポート受付&lt;/td>
+ &lt;td>平日 09:00 - 18:00&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>メンテナンス時間&lt;/td>
+ &lt;td>毎月第2土曜 02:00 - 06:00&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h3 id="sla-service-level-agreement">SLA (Service Level Agreement)&lt;a class="td-heading-self-link" href="#sla-service-level-agreement" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>指標&lt;/th>
+ &lt;th>目標値&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>サービス可用性&lt;/td>
+ &lt;td>99.9% / 月&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>インシデント初動対応時間&lt;/td>
+ &lt;td>30分以内 (高優先度)&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>問題解決時間&lt;/td>
+ &lt;td>4時間以内 (重大障害)&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;hr>
+&lt;h2 id="サポート運用体制">サポート・運用体制&lt;a class="td-heading-self-link" href="#%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e9%81%8b%e7%94%a8%e4%bd%93%e5%88%b6" aria-label="Heading self-link">&lt;/a>&lt;/h2>&lt;h3 id="問い合わせ窓口">問い合わせ窓口&lt;a class="td-heading-self-link" href="#%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b%e7%aa%93%e5%8f%a3" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>ヘルプデスク&lt;/strong>: &lt;a href="mailto:support@company.com">support@company.com&lt;/a>&lt;/li>
+&lt;li>&lt;strong>電話サポート&lt;/strong>: 0120-XXX-XXX (平日 09:00 - 18:00)&lt;/li>
+&lt;/ul>
+&lt;h3 id="インシデント管理フロー">インシデント管理フロー&lt;a class="td-heading-self-link" href="#%e3%82%a4%e3%83%b3%e3%82%b7%e3%83%87%e3%83%b3%e3%83%88%e7%ae%a1%e7%90%86%e3%83%95%e3%83%ad%e3%83%bc" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;ol>
+&lt;li>サービスオーナーからの問い合わせ受付（メール/電話/ポータル）&lt;/li>
+&lt;li>ヘルプデスクが一次対応&lt;/li>
+&lt;li>問題の切り分け
+&lt;ul>
+&lt;li>&lt;strong>アプリケーション障害&lt;/strong>: アプリケーションサポートチームへエスカレーション&lt;/li>
+&lt;li>&lt;strong>インフラ障害&lt;/strong>: インフラ運用チームへエスカレーション&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>解決後、サービスオーナーへ報告&lt;/li>
+&lt;li>知識ベース (KB) に記録&lt;/li>
+&lt;/ol>
+&lt;h3 id="変更管理リリース管理">変更管理・リリース管理&lt;a class="td-heading-self-link" href="#%e5%a4%89%e6%9b%b4%e7%ae%a1%e7%90%86%e3%83%aa%e3%83%aa%e3%83%bc%e3%82%b9%e7%ae%a1%e7%90%86" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>定期リリース&lt;/strong>: 3ヶ月ごとのバージョンアップ&lt;/li>
+&lt;li>&lt;strong>緊急リリース&lt;/strong>: 重大障害発生時に随時対応&lt;/li>
+&lt;li>&lt;strong>変更リクエスト受付&lt;/strong>: チケットシステムを利用&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="利用条件ポリシー">利用条件・ポリシー&lt;a class="td-heading-self-link" href="#%e5%88%a9%e7%94%a8%e6%9d%a1%e4%bb%b6%e3%83%9d%e3%83%aa%e3%82%b7%e3%83%bc" aria-label="Heading self-link">&lt;/a>&lt;/h2>&lt;h3 id="サービス利用契約">サービス利用契約&lt;a class="td-heading-self-link" href="#%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9%e5%88%a9%e7%94%a8%e5%a5%91%e7%b4%84" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>契約期間: &lt;strong>最低1年間の利用契約が必要&lt;/strong>&lt;/li>
+&lt;li>契約更新: &lt;strong>3ヶ月前に更新可否の確認&lt;/strong>&lt;/li>
+&lt;li>サービス範囲の変更: &lt;strong>追加要件は別途相談可能&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;h3 id="データ管理ポリシー">データ管理ポリシー&lt;a class="td-heading-self-link" href="#%e3%83%87%e3%83%bc%e3%82%bf%e7%ae%a1%e7%90%86%e3%83%9d%e3%83%aa%e3%82%b7%e3%83%bc" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>データ保持期間&lt;/strong>: 業務データ 10年、ログデータ 2年&lt;/li>
+&lt;li>&lt;strong>削除ポリシー&lt;/strong>: 管理者の承認のもと削除可能&lt;/li>
+&lt;/ul>
+&lt;h3 id="禁止事項">禁止事項&lt;a class="td-heading-self-link" href="#%e7%a6%81%e6%ad%a2%e4%ba%8b%e9%a0%85" aria-label="Heading self-link">&lt;/a>&lt;/h3>&lt;ul>
+&lt;li>未承認の変更作業&lt;/li>
+&lt;li>不正アクセス・情報漏洩&lt;/li>
+&lt;li>事前通知なしのリリース適用&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="付録参考資料">付録・参考資料&lt;a class="td-heading-self-link" href="#%e4%bb%98%e9%8c%b2%e5%8f%82%e8%80%83%e8%b3%87%e6%96%99" aria-label="Heading self-link">&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://www.axelos.com/">ITIL 4: Service Operation ガイド&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/">クラウド運用ガイド&lt;/a>&lt;/li>
+&lt;/ul></description></item></channel></rss>
