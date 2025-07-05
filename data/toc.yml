@@ -1,0 +1,6 @@
+- name: Services
+  icon: fas fa-shopping-bag
+  url: service
+  links:
+    - name: Service Catalog
+      url: service/catalog
